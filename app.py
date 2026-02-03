@@ -33,7 +33,7 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>Visitor Log Application</h1>
+            <h1>🏢 Visitor Log Application v2.0 - CI/CD Working!</h1>
             <form action="/add" method="POST">
                 <input type="text" name="name" placeholder="Visitor Name" required>
                 <button type="submit">Add Visitor</button>
